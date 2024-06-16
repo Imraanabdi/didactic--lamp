@@ -1,0 +1,18 @@
+.timesheets h1 {
+  text-align: center;
+}
+
+.timesheets h2 {
+  text-align: center;
+}
+
+.timesheets h3 {
+  text-align: center;
+}
+
+
+
+tr td.invoiced {
+  color: green;
+  /* font-weight: bold; */
+}

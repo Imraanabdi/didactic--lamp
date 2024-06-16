@@ -1,0 +1,13 @@
+.content {
+  padding-top: 30px;
+}
+
+.titleblock {
+  /* transform: rotate(2deg); */
+  display: grid;
+  height: 50px;
+  align-items: center;
+  background-color: #d17a223a;
+  /* background-color: #d17a22; */
+  color: #000000be;
+}
