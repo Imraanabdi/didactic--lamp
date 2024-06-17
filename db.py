@@ -14,6 +14,8 @@ CREATE TABLE IF NOT EXISTS employers (
 )
 ''')
 
+
+
 # Employees table
 cursor.execute('''
 CREATE TABLE IF NOT EXISTS employees (
