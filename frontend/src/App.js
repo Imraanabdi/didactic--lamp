@@ -9,7 +9,8 @@ import Timesheets from './Pages/Timesheets/Timesheets';
 import Customers from './Pages/Customers/Customers';
 import NewTimesheet from './Pages/NewTimesheet/NewTimesheet'
 
-function App() {
+function App() { 
+
   return (
     <Router>
       <Header />
