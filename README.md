@@ -5,5 +5,5 @@
   
   <img src="frontend/images/projectpage3.png" alt="Description of Image" width="300" height="200">
   
-  <img src="frontend/images/projectpage2.png" alt="Description of Image" width="1000" height="1000">
+  <img src="frontend/images/projectpage2.png" alt="Description of Image" width="500" height="200">
   
