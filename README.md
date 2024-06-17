@@ -2,7 +2,7 @@
   [click here to see ](https://www.loom.com/share/a9787cdd14524575ae62fe21efedb3cd)    
 
   Summary
-In this video, I walk you through my timesheet application, covering the frontend, dashboard, and various actions like delete, logout, and edit. I demonstrate creating new timesheets, selecting customers, and submitting entries. Additionally, I delve into the backend, showcasing SQL commands to create tables and how the database interacts with the front-end. Watch to understand the full application flow!
+In this video, I walk you through my timesheet application, covering the frontend, dashboard, and various actions like delete, logout, and edit. I demonstrate creating new timesheets, selecting customers, and submitting entries. Additionally, I delve into the backend, showcasing SQL commands to create tables and how the database interacts with the front-end. Watch to understand the full application flow!       [OPEN](https://www.loom.com/share/a9787cdd14524575ae62fe21efedb3cd) 
 
   <img src="frontend/images/loomTimesheet.png" alt="Description of Image" width="1000" height="600">
 
