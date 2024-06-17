@@ -1,7 +1,7 @@
  
   [click here to see ](https://www.loom.com/share/a9787cdd14524575ae62fe21efedb3cd)
 
-  <img src="frontend/images/loomTimesheet.png" alt="Description of Image" width="1000" height="700">
+  <img src="frontend/images/loomTimesheet.png" alt="Description of Image" width="1000" height="600">
 
 [tap ](https://www.loom.com/share/a9787cdd14524575ae62fe21efedb3cd)
 
