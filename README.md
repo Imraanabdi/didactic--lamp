@@ -1,7 +1,7 @@
-# didactic--lamp 
+ 
 <img src="/home/imran/pro/must/frontend/images/loomTimesheet.png" alt="Description of Image" width="700" height="700">
   
-  
+  <img src="frontend/images/loomTimesheet.png" alt="Description of Image" width="700" height="200">
 
 [text](https://www.loom.com/share/a9787cdd14524575ae62fe21efedb3cd)
 
